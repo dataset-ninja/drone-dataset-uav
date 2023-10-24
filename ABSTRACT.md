@@ -1,3 +1,3 @@
 Authors introduce the **Drone Dataset (UAV)**, a comprehensive collection of 1,359 images, all belonging to a single class: *drone*. This dataset is meticulously split into *train* and *valid* subsets, comprising 1,012 and 347 images, respectively. The primary purpose of creating this dataset is to facilitate the training of Unmanned Aerial Vehicles (UAVs) in the critical tasks of guidance and collision avoidance as they navigate through the increasingly crowded skies alongside other UAVs.
 
-This dataset collected by Mehdi Özel (Istanbul, Turkey) for a UAV Competition. Most Images downloaded from Google and Yandex with image scrapers. Also, some YouTube videos used to scrap some images.
+This dataset collected by author in Istanbul (Turkey) for a UAV Competition. Most Images downloaded from Google and Yandex with image scrapers. Also, some YouTube videos used to scrap some images.
