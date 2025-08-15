@@ -1,6 +1,6 @@
 Dataset **Drone Dataset (UAV)** can be downloaded in [Supervisely format](https://developer.supervisely.com/api-references/supervisely-annotation-json-format):
 
- [Download](https://assets.supervisely.com/remote/eyJsaW5rIjogImZzOi8vYXNzZXRzLzI4MzdfRHJvbmUgRGF0YXNldCAoVUFWKS9kcm9uZS1kYXRhc2V0LSh1YXYpLURhdGFzZXROaW5qYS50YXIiLCAic2lnIjogIktnUWprREVaTm50TEJiYVZwLzE1SDgwK0dHQWVKSXZwUXlZYkRCbnY2cnM9In0=)
+ [Download](https://assets.supervisely.com/remote/eyJsaW5rIjogInMzOi8vc3VwZXJ2aXNlbHktZGF0YXNldHMvMjgzN19Ecm9uZSBEYXRhc2V0IChVQVYpL2Ryb25lLWRhdGFzZXQtKHVhdiktRGF0YXNldE5pbmphLnRhciIsICJzaWciOiAiTUdveG1yT1BKWXoyRkpTV0ZBRGFnakdSS3Bpb3hIbS9UeVk5STBWYWdTST0ifQ==?response-content-disposition=attachment%3B%20filename%3D%22drone-dataset-%28uav%29-DatasetNinja.tar%22)
 
 As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash
